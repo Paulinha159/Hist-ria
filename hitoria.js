@@ -18,6 +18,7 @@ for(let palavra of palavras)
     if(palavra[1]> maiorOcorrencia[1])
         maiorOcorrencia=palavra
     console.log ("A palavra que aparece mais vezes é:"+ maiorOcorrencia)
+
     
     
 
