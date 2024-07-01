@@ -17,7 +17,7 @@ for(let palavra of palavras)
     console.log(palavra)
     if(palavra[1]> maiorOcorrencia[1])
         maiorOcorrencia=palavra
-    console.log (`A palavra mais usada $ocorencia `)
+    console.log (`A palavra mais usada ${maiorOcorrencia.lenght} `)
     
 
 
